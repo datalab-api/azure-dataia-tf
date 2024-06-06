@@ -1,7 +1,3 @@
-Here's the updated README file with the provided image included:
-
----
-
 # Azure Data Factory Terraform Setup
 
 This repository contains a Terraform configuration for setting up an Azure Data Factory with linked services, datasets, and pipelines. The setup includes basic resources like resource groups and more advanced configurations like Kafka and Blob storage integrations.
@@ -15,9 +11,10 @@ The architecture diagram above illustrates the setup of the Azure Data Factory a
 ## Project Structure
 
 ```
-├── main.tf                 # Main Terraform configuration file
+├── main.tf                 # Main Terraform config
 ├── variables.tf            # Variables file
 ├── outputs.tf              # Outputs file
+├── providers.tf 
 ├── README.md               # Project README file
 └── .gitignore              # Git ignore file
 ```
