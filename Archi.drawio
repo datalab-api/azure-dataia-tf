@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-06T12:22:05.008Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" version="24.4.15" etag="DO1y2vi46VP3iGdz4vm0" type="device" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-06-06T12:58:59.155Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" version="24.4.15" etag="vWkHZXZLqmGKHO5N8dtX" type="device" pages="2">
   <diagram id="_NZdSiPK_W-ZYmCqPJyn" name="Page-1">
     <mxGraphModel dx="740" dy="1820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -10,7 +10,7 @@
         <mxCell id="9" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=3;fillColor=#e1d5e7;fontSize=12;align=center;strokeColor=#9673a6;dashed=1;dashPattern=8 8;perimeterSpacing=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="-950" width="920" height="680" as="geometry" />
         </mxCell>
-        <mxCell id="98" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fillColor=#dae8fc;fontSize=12;align=center;strokeColor=#6c8ebf;dashed=1;dashPattern=1 2;" parent="1" vertex="1">
+        <mxCell id="98" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=4;fontSize=12;align=center;dashed=1;dashPattern=1 2;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="170" y="-810" width="820" height="450" as="geometry" />
         </mxCell>
         <mxCell id="94" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fillColor=#e1d5e7;fontSize=12;align=center;strokeColor=#9673a6;dashed=1;" parent="1" vertex="1">
@@ -33,6 +33,14 @@
         </mxCell>
         <mxCell id="110" style="edgeStyle=orthogonalEdgeStyle;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" source="99" target="108" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="geQ-DMJB4eRlWgBL9dJb-145" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="99" target="116">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="270" y="-190" />
+              <mxPoint x="270" y="-566" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="99" value="Azure PIP" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/networking/Public_IP_Addresses_Classic.svg;pointerEvents=0;fontFamily=Helvetica;fontColor=default;fillColor=none;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="548" y="-240" width="64" height="52" as="geometry" />
@@ -112,7 +120,7 @@
         <mxCell id="128" style="edgeStyle=orthogonalEdgeStyle;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" source="126" target="118" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="136" style="edgeStyle=orthogonalEdgeStyle;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" source="126" target="133" edge="1">
+        <mxCell id="136" style="edgeStyle=orthogonalEdgeStyle;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" source="126" target="133" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="331" y="-800" />

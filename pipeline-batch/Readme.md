@@ -4,7 +4,7 @@ This repository contains a Terraform configuration for setting up an Azure Data 
 
 ## Architecture Diagram
 
-![Azure Data Factory Architecture](./pipeline-azure.png)
+![Azure Data Factory Architecture](./pipeline-azure.jpg)
 
 The architecture diagram above illustrates the setup of the Azure Data Factory along with its components, including Blob Storage, Cosmos DB, SQL Database, and more.
 
